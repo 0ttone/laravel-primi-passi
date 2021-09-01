@@ -8,9 +8,9 @@
 </head>
 <body>
       Sono la pagina 'about' generata in resources/view e con il percorso
-      generato all interno di  routes/web.php <br>
+      generato all interno di  routes/web.php <br><br>
       Questa è la chiave tra doppie graffe {{ $chiave }} che all interno di Routes è un array classico chiave-valore ma </br>
-      qui in view si traduce nel valore. 
+      qui in view si traduce nel valore. <br><br>
       Io sono la pagina {{ $pagina }}. L' /about/ che precede il punto è il valore della chiave pagina in routes.
 </body>
 </html>
